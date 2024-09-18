@@ -1,0 +1,16 @@
+# Calculadora Simples
+
+Este é um projeto de uma calculadora simples desenvolvida em Python. A calculadora é capaz de realizar operações básicas como adição, subtração, multiplicação e divisão. O objetivo do projeto é fornecer uma base para aprender e praticar a lógica de programação e a manipulação de funções em Python.
+
+## Funcionalidades
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+
+## Como Usar
+
+1. Clone o repositório para o seu ambiente local:
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-simples.git
